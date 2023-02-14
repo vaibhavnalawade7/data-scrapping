@@ -5,6 +5,7 @@ This repository contains various data scraping projects using Python and Jupyter
 ## Contents
 
 - Project 1: Top Game from Website https://play.google.com/store/games
+- Project 2: Books from Website https://play.google.com/store/books
 
 ## Requirements
 
